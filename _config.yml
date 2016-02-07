@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8168636
+color:
+  saturation: 0.5182596
+  lightness: 0.6578782
+  brandStrength: 0.8029001
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#153954'
+    - '#4A81A1'
+    - '#B4BEC6'
+  rhythmicContrast: 0.8113012
+name: Hunting w/ Wictor

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hunting w/ Wictor]]></title>
         <description><![CDATA[Hunting w/ Wictor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hunting-w-wictor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 18:21:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 16:48:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hunting-w-wictor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd751b1-da40-4c54-8d58-26db20e7552f.png">]]></description>
+            <link>https://thegrid.ai/hunting-w-wictor/371dcc66-f067-4d50-9894-6e1aea9f7110/index.html</link>
+            <guid isPermaLink="false">371dcc66-f067-4d50-9894-6e1aea9f7110</guid>
+            <pubDate>Sun, 27 Mar 2016 16:48:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test_1]]></title>
-            <description><![CDATA[<article><h1>Test_1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/380abd52fee6d56c36e9b03469e874a9464607af.png"></article>]]></description>
-            <link>undefinedtest_1/index.html</link>
+            <description><![CDATA[<article><h1>Test_1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a94f71947f96a28e140a0cf4fb5486b70a90ab4a.png"></article>]]></description>
+            <link>https://thegrid.ai/hunting-w-wictor/test_1/index.html</link>
             <guid isPermaLink="false">699e1328-ed72-49cd-aedb-9d878077be0c</guid>
             <pubDate>Sun, 14 Feb 2016 18:21:09 GMT</pubDate>
         </item>

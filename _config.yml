@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.8168636
 color:
   saturation: 0
   brandStrength: 0.8029001
   lightness: 1
   brandColors:
-    - '#9EFBFF'
-    - '#01190C'
-    - '#021EFF'
-    - '#ABA3FF'
-    - '#42FBFF'
+    - '#B8AFAA'
+    - '#100013'
+    - '#4D3447'
+    - '#986171'
+    - '#5A637B'
   rhythmicContrast: 0.4452202
-layout_spectrum: 1
+typography_spectrum: 0.8168636
+layout_spectrum: 0
 name: Hunting w/ Wictor
